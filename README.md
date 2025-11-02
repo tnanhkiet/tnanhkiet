@@ -26,6 +26,13 @@
 
 <h2 align="center">🧠 Tech Stack</h2>
 
+<h4 align="center">🧩 Programming Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</p>
+
 <h4 align="center">💻 Frontend</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -40,8 +47,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 <h4 align="center">🗄️ Database</h4>
@@ -53,8 +58,6 @@
 <h4 align="center">🧰 Tools & Others</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
@@ -75,7 +78,7 @@ const teika_truong = {
   current_status: "Freelance Fullstack Developer",
 
   // 🌱 Learning
-  learning: "Exploring Next.js, clean architecture, and cloud deployment",
+  learning: "Enhancing expertise in fullstack scalability, mastering Next.js and modular .NET architecture, and diving into DevOps & cloud automation.",
 
   // 🤝 Collaboration goals
   collaborateOn: "High-performance, scalable web applications",
